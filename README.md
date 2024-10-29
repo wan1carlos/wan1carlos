@@ -12,7 +12,6 @@ I'm a final-year **Computer Science** student with a specialization in **Softwar
 - Frontend & Backend Development
 - Android Development
 - Pose Estimation & Fall Detection
-- Blockchain (Solidity)
 
 ## 🛠 Skills
 - **Frontend:** HTML, CSS, JavaScript, React
