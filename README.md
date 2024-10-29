@@ -43,7 +43,7 @@ I'm a final-year **Computer Science** student with a specialization in **Softwar
 ### 📫 Connect With Me!
 - **LinkedIn**: [Juan Carlos S. Francisco](https://linkedin.com/in/jcsamsonfrancisco)
 - **Briefcase Profile**: [jcfrancisco](https://edith.feutech.edu.ph/briefcase/profile/jcfrancisco)
-- **Email**: [202110333@feutech.edu.ph](mailto:202110333@feutech.edu.ph)
+- **Email**: [jcfrancisco1234@gmail.com](mailto:jcfrancisco1234@gmail.com)
 - **Website**: [jcfrancisco.vercel.app](jcfrancisco.vercel.app)
 
 ---
