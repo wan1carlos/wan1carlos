@@ -35,8 +35,8 @@ I'm a final-year **Computer Science** student with a specialization in **Softwar
 | Project                   | Description                                                                                       | Tech Stack                     |
 |---------------------------|---------------------------------------------------------------------------------------------------|--------------------------------|
 | **IntelliWatch**          | Thesis project: Advanced fall detection with real-time alerts using pose estimation.              | Python, OpenCV                 |
-| **Elixir**                | Personalized color palette analyzer using image processing for color analysis and consultation.  | Python, Image Processing       |
-| **Dynamic UI Cam App**    | Real-time video feedback with camera integration in a Tkinter app.                               | Tkinter, OpenCV, Python        |
+| **Elixir**                | Personalized color palette analyzer using image processing for color analysis and consultation.  | Python, Image Processing, Android(Java)|
+| **Teams Auto Joiner**     | Automatically join a MS Teams meeting on your set date and time                                  | Tkinter, Python        |
 
 ---
 
